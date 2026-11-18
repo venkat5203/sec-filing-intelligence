@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+data/downloaded_filings/
+data/live_sec_filings.csv
+data/live_analysis.csv
+data/*.sqlite
+.streamlit/secrets.toml
+.DS_Store
+data/sec_edgar.sqlite
+data/filing_analysis.json
+data/live_sec_filings.json
